@@ -17,3 +17,5 @@ Meu nome é Germano e estudo Análise e Desenvolvimento de Sistemas e me dedico,
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GermanoMacieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoMacieira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+Meu [Linkedin](https://www.linkedin.com/in/germano-macieira).
