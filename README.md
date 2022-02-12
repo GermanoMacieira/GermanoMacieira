@@ -1,6 +1,6 @@
 ### 👋 Olá, bem vindo ao meu perfil! 🇧🇷
 
-Meu nome é Germano e estudo Análise e Desenvolvimento de Sistemas e me dedico, exclusivamente, a programação. Particularmente, estudo HTML, CSS, JavaScript, SQL e Java. Pretendo ser um desenvolvedor Java!
+Meu nome é Germano e estudo Análise e Desenvolvimento de Sistemas e me dedico, atualmente, ao estudo da programação. Particularmente, estudo HTML, CSS, JavaScript, SQL e Java. Pretendo ser um desenvolvedor Java!
 
 ##
 
