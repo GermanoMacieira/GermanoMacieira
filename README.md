@@ -2,6 +2,8 @@
 
 Meu nome é Germano e estudo Análise e Desenvolvimento de Sistemas e me dedico, atualmente, ao estudo da programação. Particularmente, estudo HTML, CSS, JavaScript, SQL e Java. Pretendo ser um desenvolvedor Java!
 
+My name is Germano and I study Systems Analysis and Development and currently dedicate myself to the study of programming. Particularly, I study HTML, CSS, JavaScript, SQL and Java. I intend to be a Java developer!
+
 Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
