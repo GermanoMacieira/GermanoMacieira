@@ -1,8 +1,8 @@
 ### 👋 Olá, bem vindo ao meu perfil! 🇧🇷
 
-Meu nome é Germano e estudo Análise e Desenvolvimento de Sistemas e me dedico, atualmente, ao estudo da programação. Particularmente, estudo HTML, CSS, JavaScript, SQL, Java e Angular. Pretendo ser um desenvolvedor Java!
+Meu nome é Germano e estudo Análise e Desenvolvimento de Sistemas e me dedico, atualmente, ao estudo da programação. Particularmente, estudo a linguagem Java, Spring Boot, Docker, SQL e Angular. Pretendo ser um desenvolvedor Java!
 
-My name is Germano and I study Systems Analysis and Development and currently dedicate myself to the study of programming. Particularly, I study HTML, CSS, JavaScript, SQL, Java and Angular. I intend to be a Java developer!
+My name is Germano and I study Systems Analysis and Development and currently dedicate myself to the study of programming. Particularly, I study Java, Spring Boot, Docker, SQL and Angular. I intend to be a Java developer!
 
 Tecnologias:
 <div style="display: inline_block"><br>
